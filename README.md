@@ -25,12 +25,9 @@
  The live app can be accessed [here](https://enigmatic-gorge-07171.herokuapp.com/).
 
  <p align="center">
-    <img alt="Screenshot of Fitness Tracker" src="./public/image/workout-tracker-02.JPG">
+    <img alt="Screenshot of Budget Tracker" src="./public/image/budget-tracker-01.JPG">
 </p>
- <p align="center">
-    <img alt="Screenshot of Fitness Tracker" src="./public/image/workout-tracker-01.JPG">
-</p>
-
+ 
 
 ### Installation
 
