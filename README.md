@@ -18,7 +18,7 @@
 
  ### Description
 
- Budget Tracker is an application that allows a user to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+ Budget Tracker is an application that allows a user to add expenses and deposits to their budget with or without a connection. When entering transactions offline, the app will populate the total when brought back online. The app is particular useful to travellers who want to be able to track their withdrawals and deposits with or without a data/internet connection SO that their account balance is accurate even when they are traveling.
 
  The app is built using Node, MongoDB, Mongoose, Express, and Morga and IndexDB.
 
